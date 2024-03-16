@@ -1,0 +1,2 @@
+# arduino-RotaryEncoder
+RotaryEncoder読み取りArduino用自作ライブラリ
